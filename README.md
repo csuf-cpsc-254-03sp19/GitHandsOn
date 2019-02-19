@@ -7,7 +7,7 @@ Assignment on Github Handson Tutorial will be based on this repo.
 A sample python file will be provided which has the program of developing the Tic Tac Toe Game. 
 Each individual students needs to perform the following operations:
 
-**1. Install and setup Git on thier local machines. **
+**1. Install and setup Git on thier local machines.**
 
 
 **2. Setup a Github account.**
