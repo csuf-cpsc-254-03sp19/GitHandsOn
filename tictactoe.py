@@ -5,7 +5,7 @@ import sys
 
 #define board 
 board=[]
-
+#test
 
 # Corners, Center and Others, respectively
 moves=((),(),())
