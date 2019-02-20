@@ -1,19 +1,3 @@
-#!/usr/bin/python3
-# Simple TicTacToe game in Python - EAO
-import random
-import sys
-
-#define board 
-board=[]
-
-
-# Corners, Center and Others, respectively
-moves=((),(),())
-# Winner combinations
-winners=()
-# Table
-tab=range(1,10)
-
 def print_board():
 	#write the function logic to display the board
         print(char,end=end)
