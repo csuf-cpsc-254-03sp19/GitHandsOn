@@ -23,9 +23,11 @@ Each individual students needs to perform the following operations:
 #done
 
 **6. Clone this repo on your local machine in that directory .**
-**. Command: git clone  https://github.com/csuf-cpsc-254-05sp19/GitHandsOn.git .**
 
-### Once cloned you must see the files of the repository on your local machine. 
+
+**7. Follow the steps from the Tutorial Document. **
+
+
 
 
 
