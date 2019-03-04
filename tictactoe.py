@@ -3,7 +3,6 @@
 import random
 import sys
 
-#define board 
 board=[i for i in range(0,9)]
 player, computer = '',''
 # Corners, Center and Others, respectively
