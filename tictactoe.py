@@ -81,7 +81,7 @@ def computer_move():
         for tup in moves:
             for mv in tup:
                 if move == -1 and can_move(board, computer, mv):
-                    move=mv
+                    move=mv 
                     break
     return make_move(board, computer, move)
 
