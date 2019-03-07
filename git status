@@ -1,0 +1,143 @@
+[33mcommit 4743dcaee916829d5e3aac0f2845ee2ae1ea83fb[m[33m ([m[1;36mHEAD -> [m[1;32mryanbroguiere123[m[33m)[m
+Author: ryanbroguiere123 <ryanbroguiere123@cs3004d.acad.fullerton.edu>
+Date:   Thu Mar 7 11:57:59 2019 -0800
+
+    Adding the board, moves, and winner parameters
+
+[33mcommit b0642ca87cd40d0cc8e0cec5d9169a31c494492e[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: reshamj <reshamjhangiani@gmail.com>
+Date:   Tue Mar 5 11:03:35 2019 -0800
+
+    deleted . file
+
+[33mcommit 671c5fb8c521d0038830dab20453ae757cb68c8d[m
+Author: reshamj <reshamjhangiani@gmail.com>
+Date:   Tue Mar 5 10:59:56 2019 -0800
+
+     redo the py file
+
+[33mcommit 04a8e4e442284b3044c44469aa98a92566f74a25[m[33m ([m[1;31morigin/samantha[m[33m)[m
+Author: Lewis Lam <ktrinity@csu.fullerton.edu>
+Date:   Thu Feb 28 11:00:41 2019 -0800
+
+    Added print_board, slect_char, and can_move functions
+
+[33mcommit a57b6485359a4cb6b32e2dc2b76490cf19202ba0[m
+Author: Lewis Lam <ktrinity@csu.fullerton.edu>
+Date:   Thu Feb 28 10:56:36 2019 -0800
+
+    Adding the board, moves, and winner parameters
+
+[33mcommit 1940d7e2dc4718d04732963f4a184225ab4ce7a9[m
+Author: Lewis Lam <ktrinity@csu.fullerton.edu>
+Date:   Thu Feb 28 10:50:45 2019 -0800
+
+    renamed file2 to sample
+
+[33mcommit d3432899a3c0d446063071578db13ed964f6f0fc[m
+Author: Lewis Lam <ktrinity@csu.fullerton.edu>
+Date:   Thu Feb 28 10:49:58 2019 -0800
+
+    file2
+
+[33mcommit 751fa0fab6710404116fd279516e3cf01d6ac03a[m
+Author: Lewis Lam <ktrinity@csu.fullerton.edu>
+Date:   Thu Feb 28 10:47:50 2019 -0800
+
+    added file1
+
+[33mcommit 8a3a8920b6b849da66273365162a9507a1c035ed[m
+Author: Lewis Lam <ktrinity@csu.fullerton.edu>
+Date:   Thu Feb 28 10:47:24 2019 -0800
+
+    deleted new file
+
+[33mcommit 915dd1ef281e8102e4dff73b6451ac269936070c[m
+Author: Lewis Lam <ktrinity@csu.fullerton.edu>
+Date:   Thu Feb 28 10:44:22 2019 -0800
+
+    added newfile
+
+[33mcommit 8de92a967552b790d06527e755dd207023fe661e[m
+Author: Lewis Lam <ktrinity@csu.fullerton.edu>
+Date:   Thu Feb 28 10:41:00 2019 -0800
+
+    just a random file addition
+
+[33mcommit c0fe688cd6daf40b223c300b05580a693713902a[m
+Author: reshamj <32885538+reshamj@users.noreply.github.com>
+Date:   Wed Feb 27 16:18:57 2019 -0800
+
+    Update README.md
+
+[33mcommit dc7a73642c2fcf032f82913d156a0f196d52e62b[m
+Author: reshamj <32885538+reshamj@users.noreply.github.com>
+Date:   Wed Feb 27 16:17:23 2019 -0800
+
+    Update README.md
+
+[33mcommit 5b9c5c270983dd7398c758665c1a6cd8d47f24d4[m
+Author: kcassiere10397 <kcassiere97@csu.fullerton.edu>
+Date:   Tue Feb 19 14:56:28 2019 -0800
+
+    Testing git
+
+[33mcommit 5348c03e109583b6e6c22b37a292160443e12d9b[m[33m ([m[1;31morigin/rjhangiani[m[33m)[m
+Author: reshamj <reshamjhangiani@gmail.com>
+Date:   Tue Feb 19 14:37:28 2019 -0800
+
+    testing
+
+[33mcommit c693dc59980401b85792b940eef765599dfd693d[m
+Author: reshamj <32885538+reshamj@users.noreply.github.com>
+Date:   Mon Feb 18 18:41:29 2019 -0800
+
+    Update README.md
+
+[33mcommit d4a0f29596468259fbd33f0bdcdd38d4bad6a834[m
+Author: reshamj <32885538+reshamj@users.noreply.github.com>
+Date:   Mon Feb 18 18:41:10 2019 -0800
+
+    Update README.md
+
+[33mcommit cfb3e1847da88a3ce9bdf140ef0ca66cb49163c0[m
+Author: reshamj <32885538+reshamj@users.noreply.github.com>
+Date:   Mon Feb 18 18:40:25 2019 -0800
+
+    Update README.md
+
+[33mcommit 89abb684110dab6019c07993ffbd21ca1c4d946c[m
+Author: reshamj <32885538+reshamj@users.noreply.github.com>
+Date:   Mon Feb 18 18:38:30 2019 -0800
+
+    Update README.md
+    
+    just formatted the readme
+
+[33mcommit a13bd2f858ce7a8a59b63b56f7ce47bd2ddb094c[m
+Author: reshamj <32885538+reshamj@users.noreply.github.com>
+Date:   Mon Feb 18 18:37:30 2019 -0800
+
+    Update README.md
+
+[33mcommit ab637714704081e5ec2ec7464f7bc4216d669bcc[m
+Author: reshamj <32885538+reshamj@users.noreply.github.com>
+Date:   Mon Feb 18 18:36:28 2019 -0800
+
+    Adding the tictactoe source code
+    
+    Sample python code for Tic Tac Toe game
+
+[33mcommit 07f52a64c635bd861e11e6d5cb4b98583bd6f0c5[m
+Author: reshamj <32885538+reshamj@users.noreply.github.com>
+Date:   Mon Feb 18 18:34:07 2019 -0800
+
+    Updated read me
+    
+    Add a brief description for the repo
+
+[33mcommit c116ea839e9373d5882ed9756249ce3110a6e06d[m
+Author: reshamj <32885538+reshamj@users.noreply.github.com>
+Date:   Mon Feb 18 18:26:21 2019 -0800
+
+    Initial commit
