@@ -38,16 +38,52 @@ def can_move(brd, player, move):
     return False
 
 def can_win(brd, player, move):
+    places=[]
+    x=0
+    for i in brd:
+        if i == player: places.append(x);
+        x+=1
+    win=True
+    for tup in winners:
+        win=True
+        for ix in tup:
+            if brd[ix] != player:
+                win=False
+                break
+        if win == True:
+            break
     return win
 
 def make_move(brd, player, move, undo=False):
+    if can_move(brd, player, move):
+        brd[move-1] = player
+        win=can_win(brd, player, move)
+        if undo:
+            brd[move-1] = move-1
+        return (True, win)
     return (False, False)
 
 # AI goes here
 def computer_move():
+    move=-1
     # If I can win, others don't matter.
+    for i in range(1,10):
+        if make_move(board, computer, i, True)[1]:
+            move=i
+            break
+    if move == -1:
         # If player can win, block him.
+        for i in range(1,10):
+            if make_move(board, player, i, True)[1]:
+                move=i
+                break
+    if move == -1:
         # Otherwise, try to take one of desired places.
+        for tup in moves:
+            for mv in tup:
+                if move == -1 and can_move(board, computer, mv):
+                    move=mv
+                    break
     return make_move(board, computer, move)
 
 def space_exist():
