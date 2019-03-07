@@ -37,9 +37,29 @@ def can_move(brd, player, move):
     return False
 
 def can_win(brd, player, move):
+    places=[]
+    x=0
+    for i in brd:
+        if i == player: places.append(x);
+        x+=1
+    win=True
+    for tup in winners:
+        win=True
+        for ix in tup:
+            if brd[ix] != player:
+                win=False
+                break
+        if win == True:
+            break
     return win
 
 def make_move(brd, player, move, undo=False):
+    if can_move(brd, player, move):
+        brd[move-1] = player
+        win=can_win(brd, player, move)
+        if undo:
+            brd[move-1] = move-1
+        return (True, win)
     return (False, False)
 
 # AI goes here
