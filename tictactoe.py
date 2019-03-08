@@ -39,6 +39,12 @@ def can_move(brd, player, move):
 def make_move(brd, player, move, undo=False):
     return (False, False)
 
+
+
+
+
+
+
 # AI goes here
 def computer_move():
     # If I can win, others don't matter.
